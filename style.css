@@ -1,4 +1,4 @@
-body {
+--body {
  background-image: url(../Fondo1.jpg);
  background-size: 350px;
  position: relative;
@@ -9,7 +9,7 @@ body:before {
     content: "";
     width: 100%;
     height: 100%;
-    background: rgb(0, 0, 0);
+    background-color: black;
     position: absolute;
     opacity: 0.5;
  }
