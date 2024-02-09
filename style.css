@@ -1,6 +1,6 @@
 body {
  background-image: url('https://github.com/RobForMe/paginamarcela/blob/main/Fondo1.jpg');
- background-size: 350px;
+ background-size: cover;
  position: relative;
  background-repeat: repeat;
 }
