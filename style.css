@@ -1,4 +1,8 @@
 body {
+    background-color: #ffffff; /* Reemplaza #ffffff con el color que desees en formato hexadecimal o nombre */
+}
+
+body {
  background-image: url(../Fondo1.jpg);
  background-size: 350px;
  position: relative;
